@@ -1,0 +1,4 @@
+"As contas do mês relativas a casa deverão ser cadastradas e descriminadas aqui."
+"Os pagamentos mensais dos moradores referentes as contas do mês anterior deverão ser cadastrados aqui."
+"As compras feitas pelos moradores relacionadas a casa deverão ser cadastradas e descriminadas aqui."
+"Caso seja necessario alterar ou buscar um cadastro de uma compra já realizado, este deve ser realizado aqui."

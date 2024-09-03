@@ -1,0 +1,16 @@
+{
+    "nomes": [
+        {
+            "key": "0",
+            "nome": "Selecione"
+        },
+        {
+            "key": "1",
+            "nome": "Porto"
+        },
+        {
+            "key": "2",
+            "nome": "Suíte"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "compras": [
+        {
+            "data": "14/10",
+            "resident": "Aleatório",
+            "id": 1,
+            "product": "Agua",
+            "value": "30",
+            "key": 20
+        },
+        {
+            "data": "14/10",
+            "resident": "Aleatório",
+            "id": 1,
+            "product": "Arroz",
+            "value": "19",
+            "key": 22
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 28
+        },
+        {
+            "data": "14/10",
+            "resident": "Aleatório",
+            "id": 1,
+            "product": "Agua",
+            "value": "30",
+            "key": 20
+        },
+        {
+            "data": "14/10",
+            "resident": "Aleatório",
+            "id": 1,
+            "product": "Arroz",
+            "value": "19",
+            "key": 99
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 100
+        },
+        {
+            "data": "14/10",
+            "resident": "Aleatório",
+            "id": 1,
+            "product": "Agua",
+            "value": "30",
+            "key": 7
+        },
+        {
+            "data": "14/10",
+            "resident": "Aleatório",
+            "id": 1,
+            "product": "Arroz",
+            "value": "19",
+            "key": 89
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 10
+        },
+        {
+            "data": "14/10",
+            "resident": "Aleatório",
+            "id": 1,
+            "product": "Agua",
+            "value": "30",
+            "key": 40
+        },
+        {
+            "data": "14/10",
+            "resident": "Aleatório",
+            "id": 1,
+            "product": "Arroz",
+            "value": "19",
+            "key": 30
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 50
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 51
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 52
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 53
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 54
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 55
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 56
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 57
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 58
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 42
+        },
+        {
+            "data": "15/10",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "20",
+            "key": 13
+        },
+        {
+            "data": "25/02",
+            "resident": "Apagão",
+            "id": 2,
+            "product": "Roupa",
+            "value": "1000",
+            "key": 521
+        }
+    ]
+}
